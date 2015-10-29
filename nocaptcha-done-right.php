@@ -1,3 +1,4 @@
+<?php
 /**
  * @package   Nocaptcha_Done_Right
  * @author    Bryan Haskin <bhhaskin@gmail.com>
@@ -15,3 +16,5 @@
  * License URI:       https://opensource.org/licenses/MIT
  * Domain Path:       /languages
  */
+
+if ( ! defined( 'ABSPATH' ) ) exit;
